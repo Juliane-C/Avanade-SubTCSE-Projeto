@@ -1,2 +1,2 @@
 # Avanade-SubTCSE-Projeto
-Treinamento TC de SE.
+Treinamento Fulll Stack da TC de Software Engineering.
