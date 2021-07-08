@@ -1,6 +1,6 @@
 # Avanade-SubTCSE-Projeto
 
-Treinamento Fulll Stack da TC de Software Engineering.
+Este repositórtio é parte do Treinamento Fulll Stack da TC de Software Engineering, a fim de conhecimento básico sobre a linguagem #C, .NET Framework e MongoDB.
 
 **Tecnologias utilizadas**
 
